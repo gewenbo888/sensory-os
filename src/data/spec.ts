@@ -41,7 +41,7 @@ export const SYSTEMS: System[] = [
   // ──────────────────────────────────────────────────────────────────────
   {
     id: "civilization-os",
-    slug: "civilization-os",
+    slug: "civos-civilization-os",
     agent: { en: "Agent 1 — Civilization Architect", zh: "Agent 1 — 文明架构师" },
     name: { en: "Civilization OS", zh: "文明操作系统" },
     glyph: "Ⅰ",
@@ -95,7 +95,7 @@ export const SYSTEMS: System[] = [
   // ──────────────────────────────────────────────────────────────────────
   {
     id: "idea-evolution",
-    slug: "idea-evolution",
+    slug: "civos-idea-evolution",
     agent: { en: "Agent 2 — Memetics Scientist", zh: "Agent 2 — 模因科学家" },
     name: { en: "Idea Evolution", zh: "思想演化" },
     glyph: "Ⅱ",
@@ -148,7 +148,7 @@ export const SYSTEMS: System[] = [
   // ──────────────────────────────────────────────────────────────────────
   {
     id: "material-civilization",
-    slug: "material-civilization",
+    slug: "civos-material-civilization",
     agent: { en: "Agent 3 — Materials & Energy Engineer", zh: "Agent 3 — 材料与能源工程师" },
     name: { en: "Material Civilization", zh: "物质文明" },
     glyph: "Ⅲ",
@@ -252,7 +252,7 @@ export const SYSTEMS: System[] = [
   // ──────────────────────────────────────────────────────────────────────
   {
     id: "clan-civilization",
-    slug: "clan-civilization",
+    slug: "civos-clan-civilization",
     agent: { en: "Agent (composite) — Kinship & Trust Networks", zh: "Agent（合成）— 亲族与信任网络" },
     name: { en: "Clan Civilization", zh: "宗族文明" },
     glyph: "Ⅴ",
